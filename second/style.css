@@ -1,0 +1,49 @@
+.col1 {
+  background-color: lightblue;
+  float: left;
+  width: 50%;
+}
+
+.col2 {
+  background-color: teal;
+  float: right;
+  width: 50%;
+}
+
+.parent {
+  float: left;
+  width: 66%;
+}
+
+.col3 {
+  background-color: #ccff99;
+  float: right;
+  width: 33%;
+}
+
+.box {
+  background-color: red;
+  height: 200px;
+  margin-top: 525px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+div {
+  height: 720px;
+  width: 100%;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  /*position: absolute;
+  top: 50%;
+  transform: translate(50%, 50%);*/
+}
+
+* {
+  padding: 0;
+  margin: 0;
+}
