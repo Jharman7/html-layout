@@ -1,0 +1,27 @@
+body {
+  background-color: #8c8c8c;
+}
+
+.header {
+  background-color: #595959;
+  width: 120%;
+  height: 150px;
+  margin-left: -10px;
+  margin-top: -10px;
+}
+
+.body {
+  margin-left: auto;
+  margin-right: auto;
+  height: 600px;
+  width: 75%;
+  background-color: white;
+}
+
+.foot {
+  width: 75%;
+  background-color: black;
+  height: 75px;
+  margin-left: auto;
+  margin-right: auto;
+}
